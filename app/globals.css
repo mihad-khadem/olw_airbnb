@@ -24,3 +24,9 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+/* custom styles */
+.container-custom {
+  max-width: 1200px; /* match Figma */
+  margin: 0 auto;
+  padding: 0 24px;
+}
